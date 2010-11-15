@@ -1,0 +1,218 @@
+commit 493b22dc90bcf8b3b212b8d5767578eaad87bebe
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Mon Nov 15 10:39:02 2010 +0100
+
+    zmiana 24
+
+commit afa102db632909c2bbc42d1eedc966f979ba7e6c
+Author: Pawel Foryt <pforyt@pforyt-TravelMate-2700.(none)>
+Date:   Sun Nov 14 11:48:29 2010 +0100
+
+    zmiana 23
+
+commit 99b83c1bfdfffabbc20f576e4b60892c49866c07
+Author: Pawel Foryt <pforyt@pforyt-TravelMate-2700.(none)>
+Date:   Sun Nov 14 11:48:15 2010 +0100
+
+    zmiana 22
+
+commit 8988394f8b112d368cf69bad3339ab17460ada89
+Author: Pawel Foryt <pforyt@pforyt-TravelMate-2700.(none)>
+Date:   Sun Nov 14 11:47:31 2010 +0100
+
+    zmiana 21
+
+commit acbc350d15e896717f3e2fa2daa93166b79bed97
+Author: Pawel Foryt <pforyt@pforyt-TravelMate-2700.(none)>
+Date:   Sun Nov 14 11:44:50 2010 +0100
+
+    zmiana 19
+
+commit 9374bfe828fee8fa06776d3efc22b44e22e442c7
+Merge: 47586e3 1f8d7e0
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 17:16:16 2010 +0100
+
+    merge
+
+commit 1f8d7e08535224a0da107cacc54a477e05531269
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 17:11:36 2010 +0100
+
+    branch
+
+commit 47586e38a62bcafbbb457be46125aa4887050658
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 17:03:44 2010 +0100
+
+    zmiana 16__ na branch
+
+commit 9e3194106af6731a92a9c1820c818b8da676c100
+Merge: e0152df 0a3d9ef
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 17:00:58 2010 +0100
+
+    merge
+
+commit e0152dfbecd673c98c11867c63e461c1f622e7a1
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 16:56:25 2010 +0100
+
+    zmiana 16 na branch
+
+commit 0a3d9ef3bfa06ab7a2f11af95ae5e2e064989f29
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 16:54:59 2010 +0100
+
+    zmiana 16
+
+commit 07cd08cf8b9c8b10d22324f62185ad2241a6f02e
+Merge: a0dedbb d07397c
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 16:49:31 2010 +0100
+
+    merge
+
+commit a0dedbbefdd1f841b64d8c2b94211400e7902650
+Merge: 83ed5a0 12e5e01
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 16:38:52 2010 +0100
+
+    merge
+
+commit 83ed5a00288e7b664da28c9a8fa36842a1ce1d03
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 16:36:54 2010 +0100
+
+    zmiana 14
+
+commit d07397caabb769c99edbf72da5aada60be1e7777
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 16:28:21 2010 +0100
+
+    branch 15
+
+commit 12e5e011f61af5eb015db04cbbcf61e263cfff38
+Merge: b48814e f0ad765
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 16:24:13 2010 +0100
+
+    merge 13
+
+commit b48814e4d68ae743ae69dd8ee1914fe3991d3309
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 16:18:38 2010 +0100
+
+    13 branch
+
+commit f0ad76547cc2869f5d098112b799dee5b5b39c53
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Fri Nov 12 16:17:12 2010 +0100
+
+    master 13
+
+commit 513248696c6ddf59c96d6d190333f2a8e09b89c5
+Author: Pawel Foryt <pforyt@dcclabs.tv>
+Date:   Mon Nov 8 08:39:06 2010 +0100
+
+    zmiana 12
+
+commit 98e1b56e52717d10880208bab8523410383641c1
+Merge: b26f846 09d5f83
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 11:35:46 2010 +0100
+
+    merge 10 11
+
+commit b26f846b0777174126c2e1baedd037f10c3ec49a
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 11:30:49 2010 +0100
+
+    test11
+
+commit 09d5f831e6fdb5b1df8810ea292e8afe19d26e87
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 11:27:49 2010 +0100
+
+    remowe i 10
+
+commit c9ea65dbb3e08efbb48ec8f87f768da8296db289
+Merge: b351853 671eebb
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 11:20:21 2010 +0100
+
+    merge 9 99
+
+commit b35185306f7d6d7091afd57189daf6092e0b3179
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 10:59:44 2010 +0100
+
+    zm. 99
+
+commit 671eebb89840f51a4b435b5b2e44cf805fee8a20
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 10:59:12 2010 +0100
+
+    zm 9
+
+commit a919d15e5dbc33765b5a3854f7ad8202280b415f
+Merge: 0c7bd29 ea40dcf
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 10:53:14 2010 +0100
+
+    merge 7, 8
+
+commit ea40dcf9f0579ad60402090e1fab3dc4ef7e420f
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 10:49:52 2010 +0100
+
+    osma
+
+commit 0c7bd2979dc9ad298397392b121bbd539e0dede7
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 10:46:26 2010 +0100
+
+    siodma
+
+commit cadca85e2f6c656ac676785f8f9d6f778ebb7f19
+Merge: 1fa9b79 21ae53e
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 10:39:06 2010 +0100
+
+    merge 55 66
+
+commit 1fa9b7903e48a6929fdd60804efda896665fcfe4
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 10:31:28 2010 +0100
+
+    66
+
+commit 21ae53e36ad6dfb28acef101b131d5346776d61d
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Fri Nov 5 10:30:32 2010 +0100
+
+    55
+
+commit e003365c366b24ff2e6b32b37a7407d30b9d305b
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Thu Nov 4 10:10:55 2010 +0100
+
+    fourth
+
+commit 31cc72260ccdcec0d33cce680adaba21b08cfe63
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Thu Nov 4 10:04:10 2010 +0100
+
+    third
+
+commit b68c618c9ce6378b5a2ee54c0c6e4118d3fce03e
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Thu Nov 4 09:45:50 2010 +0100
+
+    second commit
+
+commit 199d562624cbc83ca5289e7d4aff68b0b31255d2
+Author: pforyt <pforyt@dcclabs.tv>
+Date:   Thu Nov 4 09:00:08 2010 +0100
+
+    first commit
